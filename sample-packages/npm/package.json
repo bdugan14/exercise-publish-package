@@ -1,3 +1,20 @@
 {
-  "your": "json config here"
+  "your": "json config here",
+  "name": "@bdugan14/test-package",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdugan14/exercise-publish-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdugan14/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/bdugan14/exercise-publish-package#readme"
 }
